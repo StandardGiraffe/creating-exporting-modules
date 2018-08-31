@@ -1,5 +1,5 @@
 
-var list = [10,100,4,3,2,1];
+var list = [];
 
 function sortNumerically(arr){
   arr.sort(function(a, b){

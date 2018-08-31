@@ -2,14 +2,12 @@
 var lister = require("./module.js");
 
 
-//lister.newNumber(3);
+lister.newNumber(4);
+lister.newNumber(6);
+lister.newNumber(100);
+lister.newNumber(10);
+lister.newNumber(1000);
 console.log(lister.displayList());
-// lister.newNumber(4);
-// console.log(lister.displayList());
-// lister.newNumber(5);
-// console.log(lister.displayList());
-// lister.newNumber(6);
-// console.log(lister.displayList());
 
 
 
